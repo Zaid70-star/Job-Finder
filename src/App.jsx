@@ -6,7 +6,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Jobs from "./pages/Jobs";
 import Saved from "./pages/Saved";
-import JobDetails from "./pages/jobsdetails";
+import JobDetails from "./pages/JobDetails";
 
 function App() {
   return (

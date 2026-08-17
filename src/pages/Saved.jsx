@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import JobCard from "../components/JobCard";
+import JobCard from "../components/Jobcard";
 
 function Saved() {
   const [savedJobs, setSavedJobs] = useState([]);
